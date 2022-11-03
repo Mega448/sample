@@ -1,0 +1,5 @@
+sky,temperature,humid,water,output
+sunny,warm,normal,warm,yes
+rainy,cold,high,cool,no
+sunny,warm,high,warm,no
+sunny,warm,normal,cool,yes
